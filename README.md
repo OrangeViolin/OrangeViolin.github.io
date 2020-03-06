@@ -45,9 +45,20 @@
 
 如果你安装了 [jekyll](http://jekyllcn.com/)，那你只需要在命令行输入`jekyll serve` 或 `jekyll s`就能在本地浏览器中输入`http://127.0.0.1:4000/`预览主题，对主题的修改也能实时展示（需要强刷浏览器）。
 
+这个是为了查看方面，不安装也没事儿哈。
 
 
-### 开始
+### 生成界面
+
+fork 一下这个仓库：
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gckeeqi4ctj30dw03rjrl.jpg)
+
+然后去设置里面改为你自己的 github 名字
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gckegaidhrj30mh07t0tl.jpg)
+
+## 开始配置
 
 你可以通用修改 `_config.yml`文件来轻松的开始搭建自己的博客:
 
