@@ -2,7 +2,7 @@
 title: 自由度 Blog
 SEOTitle: 自由度 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: shanzibnu@gmail.com
 description: "Fear can hold you prisoner. Hope can set you free. A strong man can save himself. A great man can save another."
 keyword: "自由, 自由度, 自由度 Blog, 余姗, 余姗的博客 "
 url: "http://OrangeViolin.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "for free"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-YuShan-gentle.jpeg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
