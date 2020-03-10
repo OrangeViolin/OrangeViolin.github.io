@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      姑娘们，勇敢追求性愉悦
+title:      勇敢追求性愉悦
 subtitle:   
 date:       2020-03-08
 author:     姗子
